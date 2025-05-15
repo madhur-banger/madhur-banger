@@ -90,19 +90,3 @@ Hey there! I'm Madhur, a Cloud & Software Engineer pursuing BTech in Computer Sc
 
 ---
 
-<h2 align="left">
-  📊 GitHub Stats
-</h2>
-
-<br>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=madhur-banger&theme=tokyonight&hide_border=false&border_radius=5" height="220" alt="streak graph" />
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=madhur-banger&show_icons=true&theme=tokyonight&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=madhur-banger&layout=compact&langs_count=8&theme=tokyonight&hide_border=false" height="150" alt="languages graph"  />
-</div>
