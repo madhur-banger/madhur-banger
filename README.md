@@ -134,13 +134,13 @@ Hey there! I'm Madhur, a Software Engineer specializing in cloud-native applicat
 
 ---
 
-<h2 align="left">📊 GitHub Stats</h2>
+<!-- <h2 align="left">📊 GitHub Stats</h2> -->
 
 <br>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=madhur-banger&theme=tokyonight&hide_border=false&border_radius=5" height="220" alt="streak graph" />
-</div>
+<!-- <div align="center"> -->
+
+<!-- </div> -->
 
 <br>
 
